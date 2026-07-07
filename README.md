@@ -1,4 +1,5 @@
 <img width="2172" height="724" alt="c018851c-4b63-4a3b-b606-3d1d20400a11" src="https://github.com/user-attachments/assets/8b624426-df9b-48a9-aeba-77fe359c3ae2" />
+
 # Z Agent — Autonomous Solana KOL Bot
 
 An AI-powered Twitter/X reply bot that roleplays as a Solana alpha-caller. Built with Python, xAI's Grok API, and the Twitter v2 API.
